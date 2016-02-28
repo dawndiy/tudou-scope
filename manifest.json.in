@@ -1,0 +1,15 @@
+{
+    "architecture": "@CLICK_ARCH@",
+    "description": "A simple Unity scope written in JavaScript",
+    "framework": "ubuntu-sdk-15.04.1",
+    "hooks": {
+        "tudou-scope": {
+            "apparmor": "tudou-scope.apparmor",
+            "scope": "tudou-scope"
+        }
+    },
+    "maintainer": "DawnDIY <chenglu1990@gmail.com>",
+    "name": "tudou-scope.ubuntu-dawndiy",
+    "title": "tudou-scope",
+    "version": "0.1"
+}

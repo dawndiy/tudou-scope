@@ -1,0 +1,15 @@
+[ScopeConfig]
+ScopeRunner=./node_modules/unity-js-scopes/bin/unity-js-scopes-launcher %S %R
+_DisplayName=Tudou Scope
+DisplayName[zh_CN]=土豆视频
+_Description=This is a Tudou scope
+Author = DawnDIY <chenglu1990@gmail.com>
+Icon = icon.png
+LocationDataNeeded = true
+
+
+[Appearance]
+PageHeader.Logo = logo.png
+PageHeader.Background=gradient:///#FFF15A24/#00FF0600
+PageHeader.DividerColor=#FFF15A24
+PageHeader.ForegroundColor=#FFF15A24
